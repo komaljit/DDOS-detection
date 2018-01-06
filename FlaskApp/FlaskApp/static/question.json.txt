@@ -1,0 +1,47 @@
+{"1":
+       {"question":
+                "What is the birthday of the United States of America ?"
+    ,"answer":              
+                "July 4, 1776"
+    },
+"2": { "question":
+               "How many states are in our country ?"
+    , "answer":
+                "50"
+    },
+"3":{ "question":
+               "Which two states were the last to join the U.S.A ?"
+    , "answer":
+               "Alaska and Hawaii"
+    },
+"4":{ "question":
+               "What were the first states called?"
+    ,"answer":  
+                "The Original 13 Colonies"
+    },
+"5":{ "question":
+              "Who is president of USA?"
+     ,"answer":
+              "Donald trump"
+    },
+"6":{"question":
+              "How many members serve in congress ?"
+    ,"answer":
+              "535"
+    },
+"7":{ "question":
+              "What is the highest court in the country ?"
+   ,"answer":
+          "The Supreme Court"
+    },
+"8":{ "question":
+             "How many judges serve on this court ?"
+    ,"answer":
+              "9"
+    },
+"9":{ "question":
+        "Who is the name of lead-actor in wolverine?"
+     ,"asnwer":
+               "Hugh Jackman"
+     }
+}

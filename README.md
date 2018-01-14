@@ -1,5 +1,11 @@
 # DDOS-detection
 
+Place the FlaskApp in folder /var/www/FlaskApp/ in which flaskapp.wsgi is the web server gateway interface file to host 
+website on the apache2 server.
+
+FlaskApp.conf is the confirguartion file for apache2 in folder /etc/apache2/sites-available
+
+
 In the project, python script is used to detect the slow loris attack. The logic of python script is very simple,
 which is to count the number of keep-alive that a given connection is sending. An upper-bound of 10 is set on the
 number of keep-alive that a connection can send in a single request. If the server receives more than 10 keep-alive
